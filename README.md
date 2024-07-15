@@ -1,2 +1,2 @@
 # Basic-Python-Exercise
-Python Basic Programming Exercises
+Solved some of the 20 basic programming questions
